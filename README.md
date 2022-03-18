@@ -1,5 +1,5 @@
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="330">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="150">
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/artem-alexeev-9923b1200">
@@ -16,14 +16,13 @@
 <img src="https://komarev.com/ghpvc/?username=h1gfun4&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+  hey there. 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> 
 </div>
 
 
 <div align="center">
-  <img src="<div align="center">
   <img src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif" width="600" height="300"/>
 </div>
 :man_technologist: About Me :
