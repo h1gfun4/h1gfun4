@@ -67,11 +67,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h1gfun4&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h1gfun4&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h1gfun4&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h1gfun4&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h1gfun4&theme=solarized_dark)
