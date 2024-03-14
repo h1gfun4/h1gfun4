@@ -23,7 +23,7 @@
 
 :man_technologist: About Me :
                                                                                                 
-- :telescope: I’m working as a python and web developer and study data science.
+- :telescope: I’m working as a web developer and study data science.
 
 - :seedling: I run small tech blogs.
 
